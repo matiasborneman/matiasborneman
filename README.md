@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Borneman</h1>
-<h3 align="center">A passionate developer, graphic design and it support from Argentina</h3>
+<h3 align="center">A passionate developer, graphic design and IT support from Argentina</h3>
 
 - 🔭 I’m currently working on **freelance of graphic design and IT support**
 
@@ -8,6 +8,7 @@
 - 📫 How to reach me **matias_borneman@hotmail.com**
 
 - ⚡ Fun fact **I think i funny and creative**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
