@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href href="https://www.linkedin.com/in/matias-borneman-/"> LinkedIn! </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
