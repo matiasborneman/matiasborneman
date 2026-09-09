@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Borneman</h1>
-<h3 align="center">A passionate developer, graphic design and IT support from Argentina</h3>
+<h3 align="center">A passionate software developer, graphic design and IT support from Argentina</h3>
 
-- 🔭 I’m currently working on **freelance of graphic design and IT support**
+- 🔭 I’m currently working on **freelance of IT support**
 
 - 🌱 I’m currently studying **systems engineering on utn FRC(facultad regional Cordoba)**
 
